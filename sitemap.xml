@@ -457,14 +457,7 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
-    
-    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -478,9 +471,23 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/tags/index.html</loc>
+    
+    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/404.html</loc>
+    
+    <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
   </url>
   
@@ -493,13 +500,6 @@
   
   <url>
     <loc>cpeixin.cn/books/index.html</loc>
-    
-    <lastmod>2020-04-03T14:56:33.596Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/404.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
