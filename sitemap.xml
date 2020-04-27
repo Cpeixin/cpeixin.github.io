@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2017/04/01/Spark-SQL-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/</loc>
+    
+    <lastmod>2020-04-27T14:21:58.040Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/04/05/%E6%AF%94%E7%89%B9%E5%B8%81%E8%B5%B0%E5%8A%BF%E9%A2%84%E6%B5%8B/</loc>
+    
+    <lastmod>2020-04-22T15:26:53.858Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2017/03/17/Spark-SQL-%E8%AE%B2%E8%A7%A3/</loc>
     
     <lastmod>2020-04-22T04:19:51.260Z</lastmod>
@@ -422,14 +436,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2016/08/20/%E7%AE%97%E6%B3%95-%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
+    <loc>cpeixin.cn/2016/08/19/%E7%AE%97%E6%B3%95-%E9%80%92%E5%BD%92/</loc>
     
     <lastmod>2020-04-04T15:08:37.246Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/2016/08/19/%E7%AE%97%E6%B3%95-%E9%80%92%E5%BD%92/</loc>
+    <loc>cpeixin.cn/2016/08/20/%E7%AE%97%E6%B3%95-%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
     
     <lastmod>2020-04-04T15:08:37.246Z</lastmod>
     
@@ -618,7 +632,7 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -632,6 +646,13 @@
   </url>
   
   <url>
+    <loc>cpeixin.cn/categories/index.html</loc>
+    
+    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
@@ -639,21 +660,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
-    
-    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/404.html</loc>
+    <loc>cpeixin.cn/books/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/books/index.html</loc>
+    <loc>cpeixin.cn/404.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
