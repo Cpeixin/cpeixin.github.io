@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2019/02/10/Structured-Streaming-%E9%87%8D%E6%B8%A9/</loc>
+    
+    <lastmod>2020-05-09T04:09:47.215Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2017/08/02/Spark-Streaming-offset-%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2020-05-07T08:13:24.491Z</lastmod>
@@ -674,7 +681,7 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
+    <loc>cpeixin.cn/links/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -688,7 +695,7 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/links/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -702,14 +709,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/books/index.html</loc>
+    <loc>cpeixin.cn/404.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/404.html</loc>
+    <loc>cpeixin.cn/books/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     

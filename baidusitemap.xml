@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2019/02/10/Structured-Streaming-%E9%87%8D%E6%B8%A9/</loc>
+    <lastmod>2020-05-09</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2017/08/02/Spark-Streaming-offset-%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-05-07</lastmod>
   </url>  <url>
