@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2018/03/30/Flink-%E6%95%B0%E6%8D%AE%E6%B5%81%E5%AE%B9%E9%94%99/</loc>
+    
+    <lastmod>2020-05-13T07:49:48.431Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2018/03/20/Flink-DataStream-API/</loc>
+    
+    <lastmod>2020-05-12T14:53:29.761Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2018/03/15/Flink-%E5%9F%BA%E7%A1%80/</loc>
     
-    <lastmod>2020-05-11T14:59:42.739Z</lastmod>
+    <lastmod>2020-05-12T14:53:28.007Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2018/03/05/Flink-%E8%BF%90%E8%A1%8C%E6%9E%B6%E6%9E%84/</loc>
+    
+    <lastmod>2020-05-12T14:53:23.279Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2018/03/25/Flink-DataStream-Event-Time/</loc>
+    
+    <lastmod>2020-05-12T14:53:18.624Z</lastmod>
     
   </url>
   
@@ -19,13 +47,6 @@
     <loc>cpeixin.cn/2018/03/01/Flink-%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B/</loc>
     
     <lastmod>2020-05-11T09:45:19.925Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/01/Flink-%E8%BF%90%E8%A1%8C%E6%9E%B6%E6%9E%84/</loc>
-    
-    <lastmod>2020-05-11T07:34:26.076Z</lastmod>
     
   </url>
   
