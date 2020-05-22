@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2016/08/20/%E7%AE%97%E6%B3%95-%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2020-05-22T06:12:49.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2016/09/26/%E7%AE%97%E6%B3%95-%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2020-05-22T06:12:46.151Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2016/09/12/%E7%AE%97%E6%B3%95-%E6%A1%B6%E6%8E%92%E5%BA%8F/</loc>
     
-    <lastmod>2020-05-22T06:05:39.990Z</lastmod>
+    <lastmod>2020-05-22T06:12:41.814Z</lastmod>
     
   </url>
   
   <url>
     <loc>cpeixin.cn/2016/09/01/%E7%AE%97%E6%B3%95-%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
     
-    <lastmod>2020-05-22T06:05:37.538Z</lastmod>
+    <lastmod>2020-05-22T06:12:39.910Z</lastmod>
     
   </url>
   
   <url>
     <loc>cpeixin.cn/2016/09/15/%E7%AE%97%E6%B3%95-%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F/</loc>
     
-    <lastmod>2020-05-22T06:05:35.265Z</lastmod>
+    <lastmod>2020-05-22T06:12:37.856Z</lastmod>
     
   </url>
   
@@ -61,13 +75,6 @@
     <loc>cpeixin.cn/2017/02/20/%E3%80%90%E8%BD%AC%E8%BD%BD%E3%80%91%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E7%9A%84%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6/</loc>
     
     <lastmod>2020-05-20T03:39:02.516Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2016/08/20/%E7%AE%97%E6%B3%95-%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</loc>
-    
-    <lastmod>2020-05-20T02:26:12.805Z</lastmod>
     
   </url>
   
@@ -870,14 +877,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
