@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2016/09/12/%E7%AE%97%E6%B3%95-%E6%A1%B6%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2020-05-22T06:05:39.990Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2016/09/01/%E7%AE%97%E6%B3%95-%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2020-05-22T06:05:37.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2016/09/15/%E7%AE%97%E6%B3%95-%E8%AE%A1%E6%95%B0%E6%8E%92%E5%BA%8F/</loc>
+    
+    <lastmod>2020-05-22T06:05:35.265Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2016/09/15/%E7%AE%97%E6%B3%95-%E9%80%92%E5%BD%92/</loc>
     
     <lastmod>2020-05-21T15:13:08.403Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>cpeixin.cn/2016/09/10/%E7%AE%97%E6%B3%95-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F/</loc>
     
     <lastmod>2020-05-21T15:07:21.682Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2016/09/01/%E7%AE%97%E6%B3%95-%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F/</loc>
-    
-    <lastmod>2020-05-21T14:18:52.923Z</lastmod>
     
   </url>
   
@@ -863,14 +877,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
