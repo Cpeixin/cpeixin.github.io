@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2018/05/27/Flink-Watermark/</loc>
+    
+    <lastmod>2020-06-02T09:05:14.696Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2018/11/03/ETL%E9%87%8C%E7%9A%8434%E4%B8%AA%E5%AD%90%E7%B3%BB%E7%BB%9F/</loc>
     
     <lastmod>2020-06-01T02:38:13.981Z</lastmod>
@@ -954,14 +961,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
