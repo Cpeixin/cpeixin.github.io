@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2019/06/03/%E3%80%90%E8%BD%AC%E8%BD%BD%E3%80%91%E8%B0%88%E8%B0%88%E6%B5%81%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%9A%84%E3%80%8EExactly-Once%E3%80%8F%E7%89%B9%E6%80%A7/</loc>
+    
+    <lastmod>2020-07-01T16:41:41.011Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2019/03/15/Flink%E5%92%8CSpark-Streaming%E4%B8%AD%E7%9A%84Back-Pressure/</loc>
     
     <lastmod>2020-06-28T15:15:10.658Z</lastmod>
@@ -1073,14 +1080,7 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
-    
-    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -1094,21 +1094,28 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/books/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
+    
+    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/404.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/404.html</loc>
+    <loc>cpeixin.cn/books/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
