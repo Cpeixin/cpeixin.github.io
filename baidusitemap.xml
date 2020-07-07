@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-07-07</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2019/08/05/%E5%9B%A2%E7%81%AD-LeetCode-%E8%82%A1%E7%A5%A8%E4%B9%B0%E5%8D%96%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2020-07-04</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2019/07/04/Apache-Flink%E7%BB%93%E5%90%88Kafka%E6%9E%84%E5%BB%BA%E7%AB%AF%E5%88%B0%E7%AB%AF%E7%9A%84Exactly-Once%E5%A4%84%E7%90%86/</loc>
     <lastmod>2020-07-03</lastmod>
   </url>  <url>
