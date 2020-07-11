@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2019/05/30/Kafka-%E9%87%8D%E5%B9%B3%E8%A1%A1%E6%B5%81%E7%A8%8B%E8%A7%A3%E6%9E%90/</loc>
+    <lastmod>2020-07-11</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2019/04/10/Kafka-%E6%B6%88%E8%B4%B9%E8%80%85%E8%AF%A6%E8%A7%A3/</loc>
+    <lastmod>2020-07-10</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-07-07</lastmod>
   </url>  <url>
