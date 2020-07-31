@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2019/05/31/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8-BloomFilter/</loc>
+    <lastmod>2020-07-31</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2020/07/21/HBase-RowKey%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2020-07-21</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2017/08/10/HBase%E5%9B%BE%E8%A7%A3/</loc>
     <lastmod>2020-07-20</lastmod>
   </url>  <url>
