@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2020-08-05T07:17:49.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/03/15/Flink%E5%92%8CSpark-Streaming%E4%B8%AD%E7%9A%84Back-Pressure/</loc>
+    
+    <lastmod>2020-08-05T07:17:35.185Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2019/10/20/%E6%95%B0%E4%BB%93-%E8%A7%84%E8%8C%83/</loc>
     
     <lastmod>2020-08-04T12:44:04.462Z</lastmod>
@@ -100,13 +114,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
-    
-    <lastmod>2020-07-07T01:53:46.284Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2019/08/05/%E5%9B%A2%E7%81%AD-LeetCode-%E8%82%A1%E7%A5%A8%E4%B9%B0%E5%8D%96%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2020-07-04T17:01:29.086Z</lastmod>
@@ -131,13 +138,6 @@
     <loc>cpeixin.cn/2019/06/03/%E3%80%90%E8%BD%AC%E8%BD%BD%E3%80%91%E8%B0%88%E8%B0%88%E6%B5%81%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%9A%84%E3%80%8EExactly-Once%E3%80%8F%E7%89%B9%E6%80%A7/</loc>
     
     <lastmod>2020-07-01T16:41:41.011Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/03/15/Flink%E5%92%8CSpark-Streaming%E4%B8%AD%E7%9A%84Back-Pressure/</loc>
-    
-    <lastmod>2020-06-28T15:15:10.658Z</lastmod>
     
   </url>
   
@@ -1164,13 +1164,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/links/index.html</loc>
-    
-    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
@@ -1179,6 +1172,13 @@
   
   <url>
     <loc>cpeixin.cn/repository/index.html</loc>
+    
+    <lastmod>2020-04-03T14:56:33.597Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/links/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
