@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2017/03/10/Spark-%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
+    
+    <lastmod>2020-08-27T23:48:58.618Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/10/05/Hive-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-08-26T07:58:15.731Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2020/06/18/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B4%A2%E5%BC%95-B-%E6%A0%91/</loc>
     
     <lastmod>2020-08-16T17:04:17.620Z</lastmod>
@@ -208,13 +222,6 @@
     <loc>cpeixin.cn/2016/08/22/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%95%A3%E5%88%97%E8%A1%A8%E5%8E%9F%E7%90%86/</loc>
     
     <lastmod>2020-06-15T05:48:21.751Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/10/05/Hive-%E7%AA%97%E5%8F%A3%E5%87%BD%E6%95%B0/</loc>
-    
-    <lastmod>2020-06-15T00:47:29.706Z</lastmod>
     
   </url>
   
@@ -912,13 +919,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2017/03/10/Spark-%E8%BF%90%E8%A1%8C%E5%8E%9F%E7%90%86/</loc>
-    
-    <lastmod>2020-04-14T17:27:41.606Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2020/01/01/GPT-2-Chinese-%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E6%96%87%E7%AB%A0-%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/</loc>
     
     <lastmod>2020-04-13T09:28:23.224Z</lastmod>
@@ -1206,14 +1206,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
+    <loc>cpeixin.cn/repository/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/repository/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
