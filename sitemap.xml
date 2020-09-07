@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2020/05/30/Flink-apply-process-%E8%AE%B2%E8%A7%A3/</loc>
+    
+    <lastmod>2020-09-07T13:41:16.457Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2020/05/07/Flink-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</loc>
     
     <lastmod>2020-09-07T03:34:23.429Z</lastmod>
@@ -96,13 +103,6 @@
     <loc>cpeixin.cn/2019/08/01/Flink-Allowed-Lateness/</loc>
     
     <lastmod>2020-09-06T09:03:11.595Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/07/30/Flink-apply-process-%E8%AE%B2%E8%A7%A3/</loc>
-    
-    <lastmod>2020-09-06T09:02:52.781Z</lastmod>
     
   </url>
   
