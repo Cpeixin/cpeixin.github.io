@@ -2,6 +2,230 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>cpeixin.cn/2019/09/07/Flink-%E6%95%B0%E6%8D%AE%E5%80%BE%E6%96%9C/</loc>
+    
+    <lastmod>2020-09-06T17:47:58.123Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/04/Apache-Flink%E7%BB%93%E5%90%88Kafka%E6%9E%84%E5%BB%BA%E7%AB%AF%E5%88%B0%E7%AB%AF%E7%9A%84Exactly-Once%E5%A4%84%E7%90%86/</loc>
+    
+    <lastmod>2020-09-06T17:32:19.300Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/07/Flink-%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B/</loc>
+    
+    <lastmod>2020-09-06T09:05:04.898Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/10/20/Flink-%E4%BE%A7%E8%BE%93%E5%87%BA%E6%B5%81SideOutput/</loc>
+    
+    <lastmod>2020-09-06T09:05:01.600Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2020/01/15/Flink%E5%92%8CSpark-Streaming%E4%B8%AD%E7%9A%84Back-Pressure/</loc>
+    
+    <lastmod>2020-09-06T09:04:50.797Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/09/17/Flink-window%E7%AA%97%E5%8F%A3%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2020-09-06T09:04:37.715Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/09/08/Flink-SQL/</loc>
+    
+    <lastmod>2020-09-06T09:04:21.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/08/27/Flink-Watermark/</loc>
+    
+    <lastmod>2020-09-06T09:04:08.480Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/08/19/Flink-%E5%90%88%E5%B9%B6%E6%B5%81-connect-union/</loc>
+    
+    <lastmod>2020-09-06T09:03:48.123Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/08/30/Flink-%E6%95%B0%E6%8D%AE%E6%B5%81%E5%AE%B9%E9%94%99/</loc>
+    
+    <lastmod>2020-09-06T09:03:34.165Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/08/10/Flink-%E6%95%B0%E6%8D%AE%E8%BE%93%E5%87%BA-Sink/</loc>
+    
+    <lastmod>2020-09-06T09:03:22.295Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/08/01/Flink-Allowed-Lateness/</loc>
+    
+    <lastmod>2020-09-06T09:03:11.595Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/30/Flink-apply-process-%E8%AE%B2%E8%A7%A3/</loc>
+    
+    <lastmod>2020-09-06T09:02:52.781Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/22/Flink-DataStream-%E6%97%B6%E9%97%B4%E8%AF%AD%E4%B9%89/</loc>
+    
+    <lastmod>2020-09-06T09:02:30.911Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/25/Flink-DataStream-Event-Time/</loc>
+    
+    <lastmod>2020-09-06T09:02:14.916Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/07/06/Flink-CEP%E7%BC%96%E7%A8%8B/</loc>
+    
+    <lastmod>2020-09-06T08:58:16.144Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2020-09-06T07:44:06.417Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/05/Flink-%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2020-09-06T07:04:35.327Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/03/Flink-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</loc>
+    
+    <lastmod>2020-09-06T07:04:15.048Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/17/Flink-%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</loc>
+    
+    <lastmod>2020-09-06T07:03:42.923Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/17/Flink%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5/</loc>
+    
+    <lastmod>2020-09-06T02:21:37.471Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/15/Flink-Table-API-window%E6%93%8D%E4%BD%9C/</loc>
+    
+    <lastmod>2020-09-06T01:31:09.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/11/Flink-Table-API-SQL/</loc>
+    
+    <lastmod>2020-09-06T01:23:00.138Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/09/Flink-DataStream-API/</loc>
+    
+    <lastmod>2020-09-06T01:05:06.206Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/08/Flink-%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/</loc>
+    
+    <lastmod>2020-09-05T17:12:49.142Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/07/Flink-%E8%BF%90%E8%A1%8C%E6%9E%B6%E6%9E%84/</loc>
+    
+    <lastmod>2020-09-05T16:43:49.300Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/06/Flink%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2020-09-05T16:43:45.665Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/05/Flink%E9%9B%86%E7%BE%A4%E6%9E%B6%E6%9E%84/</loc>
+    
+    <lastmod>2020-09-05T16:43:40.508Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/06/05/Spark-%E8%BF%9B%E8%A1%8C%E5%85%A8%E6%96%B9%E4%BD%8D%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/</loc>
+    
+    <lastmod>2020-09-05T07:25:26.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2019/02/04/%E6%9D%A5%E8%81%8A%E4%B8%80%E8%81%8A%E5%AD%98%E5%82%A8%E6%A0%BC%E5%BC%8F/</loc>
+    
+    <lastmod>2020-09-04T03:52:30.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2018/10/04/Spark-SQL%E7%94%A8%E6%88%B7%E8%87%AA%E5%AE%9A%E4%B9%89%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-09-03T17:46:05.111Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>cpeixin.cn/2018/09/03/Spark-SQL-%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E6%8D%AE%EF%BC%9ADataFrame%E5%92%8CDataset/</loc>
+    
+    <lastmod>2020-09-03T14:57:01.277Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>cpeixin.cn/2019/10/19/Spark-Shuffle%E5%86%85%E5%B9%95/</loc>
     
     <lastmod>2020-09-03T14:25:32.212Z</lastmod>
@@ -121,20 +345,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
-    
-    <lastmod>2020-08-05T07:17:49.051Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/03/15/Flink%E5%92%8CSpark-Streaming%E4%B8%AD%E7%9A%84Back-Pressure/</loc>
-    
-    <lastmod>2020-08-05T07:17:35.185Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2019/10/20/%E6%95%B0%E4%BB%93-%E8%A7%84%E8%8C%83/</loc>
     
     <lastmod>2020-08-04T12:44:04.462Z</lastmod>
@@ -236,13 +446,6 @@
     <loc>cpeixin.cn/2019/08/05/%E5%9B%A2%E7%81%AD-LeetCode-%E8%82%A1%E7%A5%A8%E4%B9%B0%E5%8D%96%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2020-07-04T17:01:29.086Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/07/04/Apache-Flink%E7%BB%93%E5%90%88Kafka%E6%9E%84%E5%BB%BA%E7%AB%AF%E5%88%B0%E7%AB%AF%E7%9A%84Exactly-Once%E5%A4%84%E7%90%86/</loc>
-    
-    <lastmod>2020-07-03T17:07:49.898Z</lastmod>
     
   </url>
   
@@ -366,27 +569,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2018/06/08/Flink-SQL/</loc>
-    
-    <lastmod>2020-06-07T16:57:53.543Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/06/07/Flink-Table-API-window%E6%93%8D%E4%BD%9C/</loc>
-    
-    <lastmod>2020-06-07T09:14:24.656Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/06/05/Flink-Table-API-SQL/</loc>
-    
-    <lastmod>2020-06-07T07:16:24.589Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2016/11/12/LeetCode-%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91/</loc>
     
     <lastmod>2020-06-05T16:45:15.890Z</lastmod>
@@ -397,27 +579,6 @@
     <loc>cpeixin.cn/2020/02/13/Flink-1-10%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
     
     <lastmod>2020-06-03T14:38:01.179Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/06/03/Flink-Allowed-Lateness/</loc>
-    
-    <lastmod>2020-06-03T14:37:42.057Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2019/03/03/Flink-apply-process-%E8%AE%B2%E8%A7%A3/</loc>
-    
-    <lastmod>2020-06-03T01:19:30.498Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/05/27/Flink-Watermark/</loc>
-    
-    <lastmod>2020-06-02T09:05:14.696Z</lastmod>
     
   </url>
   
@@ -450,30 +611,9 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2018/05/22/Flink-DataStream-%E6%97%B6%E9%97%B4%E8%AF%AD%E4%B9%89/</loc>
-    
-    <lastmod>2020-05-29T09:45:59.376Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2020/05/28/Linux%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BDGoogle-Drive%E6%96%87%E4%BB%B6/</loc>
     
     <lastmod>2020-05-28T15:08:18.891Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/05/17/Flink-window%E7%AA%97%E5%8F%A3%E6%93%8D%E4%BD%9C/</loc>
-    
-    <lastmod>2020-05-27T13:13:00.356Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/05/10/Flink-%E6%95%B0%E6%8D%AE%E8%BE%93%E5%87%BA-Sink/</loc>
-    
-    <lastmod>2020-05-22T15:23:46.924Z</lastmod>
     
   </url>
   
@@ -583,13 +723,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2018/04/25/Flink-%E5%90%88%E5%B9%B6%E6%B5%81-connect-union/</loc>
-    
-    <lastmod>2020-05-17T05:17:59.071Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2019/11/12/%E3%80%90%E8%BD%AC%E8%BD%BD%E3%80%91%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8Spark-SQL%E4%B8%8A%E7%9A%84%E6%A0%B8%E5%BF%83%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5/</loc>
     
     <lastmod>2020-05-16T10:59:03.835Z</lastmod>
@@ -600,13 +733,6 @@
     <loc>cpeixin.cn/2019/05/16/SHC%EF%BC%9A%E4%BD%BF%E7%94%A8-Spark-SQL-%E9%AB%98%E6%95%88%E5%9C%B0%E8%AF%BB%E5%86%99-HBase/</loc>
     
     <lastmod>2020-05-16T02:31:46.066Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/04/20/Flink-%E4%BE%A7%E8%BE%93%E5%87%BA%E6%B5%81SideOutput/</loc>
-    
-    <lastmod>2020-05-15T15:51:24.179Z</lastmod>
     
   </url>
   
@@ -625,55 +751,6 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/2018/03/30/Flink-%E6%95%B0%E6%8D%AE%E6%B5%81%E5%AE%B9%E9%94%99/</loc>
-    
-    <lastmod>2020-05-13T13:30:19.746Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/20/Flink-DataStream-API/</loc>
-    
-    <lastmod>2020-05-12T14:53:29.761Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/15/Flink-%E5%9F%BA%E7%A1%80/</loc>
-    
-    <lastmod>2020-05-12T14:53:28.007Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/05/Flink-%E8%BF%90%E8%A1%8C%E6%9E%B6%E6%9E%84/</loc>
-    
-    <lastmod>2020-05-12T14:53:23.279Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/25/Flink-DataStream-Event-Time/</loc>
-    
-    <lastmod>2020-05-12T14:53:18.624Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/10/Flink-%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</loc>
-    
-    <lastmod>2020-05-11T09:45:22.543Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/03/01/Flink-%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B/</loc>
-    
-    <lastmod>2020-05-11T09:45:19.925Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>cpeixin.cn/2018/04/10/OLTP%E4%B8%8EOLAP%EF%BC%9A%E6%9C%89%E4%BD%95%E5%8C%BA%E5%88%AB%EF%BC%9F/</loc>
     
     <lastmod>2020-05-11T05:14:44.588Z</lastmod>
@@ -684,20 +761,6 @@
     <loc>cpeixin.cn/2018/03/10/MySQL%E4%B8%AD%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%BA%8B%E5%8A%A1/</loc>
     
     <lastmod>2020-05-10T14:06:56.435Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/02/20/Flink-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F/</loc>
-    
-    <lastmod>2020-05-10T13:06:33.408Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>cpeixin.cn/2018/02/22/Flink-%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF/</loc>
-    
-    <lastmod>2020-05-10T13:06:31.078Z</lastmod>
     
   </url>
   
@@ -1269,14 +1332,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/links/index.html</loc>
+    <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/links/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
