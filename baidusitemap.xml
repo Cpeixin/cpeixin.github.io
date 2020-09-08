@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2019/02/10/Structured-Streaming-%E9%87%8D%E6%B8%A9/</loc>
+    <lastmod>2020-09-08</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2018/06/08/Spark-SQL-Join%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/</loc>
+    <lastmod>2020-09-08</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2020/05/30/Flink-apply-process-%E8%AE%B2%E8%A7%A3/</loc>
     <lastmod>2020-09-07</lastmod>
   </url>  <url>
@@ -327,9 +333,6 @@
   </url>  <url>
     <loc>cpeixin.cn/2018/03/10/MySQL%E4%B8%AD%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%BA%8B%E5%8A%A1/</loc>
     <lastmod>2020-05-10</lastmod>
-  </url>  <url>
-    <loc>cpeixin.cn/2019/02/10/Structured-Streaming-%E9%87%8D%E6%B8%A9/</loc>
-    <lastmod>2020-05-09</lastmod>
   </url>  <url>
     <loc>cpeixin.cn/2017/08/02/Spark-Streaming-offset-%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-05-07</lastmod>
