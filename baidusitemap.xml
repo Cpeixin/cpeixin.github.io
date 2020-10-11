@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>cpeixin.cn/2029/07/09/Flink%E5%AF%B9%E6%8E%A5Kafka/</loc>
+    <lastmod>2020-10-09</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2020-10-09</lastmod>
+  </url>  <url>
+    <loc>cpeixin.cn/2020/08/14/Flink%E4%BB%8E%E6%BA%90%E7%A0%81%E7%9C%8B%E7%8A%B6%E6%80%81%E5%AE%9A%E6%97%B6%E6%B8%85%E7%90%86/</loc>
+    <lastmod>2020-10-09</lastmod>
+  </url>  <url>
     <loc>cpeixin.cn/2020/08/08/Flink-%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D%E5%92%8C%E9%87%8D%E5%90%AF%E7%AD%96%E7%95%A5/</loc>
     <lastmod>2020-10-08</lastmod>
   </url>  <url>
@@ -95,9 +104,6 @@
     <lastmod>2020-09-06</lastmod>
   </url>  <url>
     <loc>cpeixin.cn/2019/07/06/Flink-CEP%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2020-09-06</lastmod>
-  </url>  <url>
-    <loc>cpeixin.cn/2020/04/29/Flink-State-%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2020-09-06</lastmod>
   </url>  <url>
     <loc>cpeixin.cn/2019/06/05/Flink-%E5%9F%BA%E7%A1%80/</loc>
