@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>cpeixin.cn/2029/07/09/Flink%E5%AF%B9%E6%8E%A5Kafka/</loc>
+    <loc>cpeixin.cn/2019/07/09/Flink%E5%AF%B9%E6%8E%A5Kafka/</loc>
     
-    <lastmod>2020-10-09T10:27:02.498Z</lastmod>
+    <lastmod>2020-10-12T15:20:29.855Z</lastmod>
     
   </url>
   
@@ -1423,14 +1423,14 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/categories/index.html</loc>
+    <loc>cpeixin.cn/links/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/tags/index.html</loc>
+    <loc>cpeixin.cn/categories/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
@@ -1444,21 +1444,21 @@
   </url>
   
   <url>
-    <loc>cpeixin.cn/links/index.html</loc>
+    <loc>cpeixin.cn/tags/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.597Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/404.html</loc>
+    <loc>cpeixin.cn/books/index.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
   </url>
   
   <url>
-    <loc>cpeixin.cn/books/index.html</loc>
+    <loc>cpeixin.cn/404.html</loc>
     
     <lastmod>2020-04-03T14:56:33.596Z</lastmod>
     
